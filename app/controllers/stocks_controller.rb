@@ -1,3 +1,4 @@
+  
 class StocksController < ApplicationController
 
   def search
